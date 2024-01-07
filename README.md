@@ -31,8 +31,8 @@ The Movie Recommender Project operates as a data-driven system, suggesting movie
     Included images or posters of recommended movies for an enriched user experience.
    
 # Steps:
-Import the movie recommender Python file into Jupyter Notebook.
-Import the website Python file into PyCharm, along with all other associated files.
+1. Import the movie recommender Python file into Jupyter Notebook.
+2. Import the website Python file into PyCharm, along with all other associated files.
 
 
 
