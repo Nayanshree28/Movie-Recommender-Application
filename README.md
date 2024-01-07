@@ -5,7 +5,7 @@ The Movie Recommender Project utilizes data-driven insights and machine learning
 The Movie Recommender Project operates as a data-driven system, suggesting movies based on user preferences and film attributes. Employing data analysis and machine learning techniques, it delivers personalized recommendations to users.
 
 
-Key Components:
+# Key Components:
 1. CSV Files:
     movies.csv: Contains movie ID, titles, genres, and release years.
     credits.csv: Encompasses details about the movie cast and crew, associating movie IDs with production contributors.
